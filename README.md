@@ -24,5 +24,5 @@ Connect with Me:
 <p align="left">
 
 <a href = "https://twitter.com/faithchilo1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
+<a href = "https://instagram.com/faithchilo_"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png"/></a>
 </p>
