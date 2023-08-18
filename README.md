@@ -5,9 +5,9 @@
 <h1>🙋‍♀️About Me</h1>
 <br/>
 
-- 🔭 I’m currently working on HTML and CSS.
+- 🔭 I’m currently working on .
 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning .
 
 - 👯 I’m looking to collaborate on front-end development for internship and part-time jobs.
 
